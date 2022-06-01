@@ -39,6 +39,3 @@ These instructions will get you download the project and running on your local m
 >- Software req: OS windows 8 or above 
 
 
-## Some Screenshots Of This Project:
-
-![screenshot!]("C:\Users\vamsh\Pictures\1.png")
