@@ -42,3 +42,7 @@ i3 Processor
 Hard disk space 10GB
 
 Software req: OS windows 8 or above
+
+## Screenshots:
+
+![]("C:\Users\vamsh\Desktop\photo\1.png")
