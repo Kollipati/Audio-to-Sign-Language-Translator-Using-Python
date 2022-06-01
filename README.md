@@ -45,4 +45,5 @@ Software req: OS windows 8 or above
 
 ## Screenshots:
 
-![Screenshot](C:\Users\vamsh\Desktop\photo\1.png)
+![](https://user-images.githubusercontent.com/89390696/171326229-71063cb7-b70c-4135-9d98-8ffdd6941da5.png)
+
