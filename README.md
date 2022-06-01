@@ -31,4 +31,9 @@ These instructions will get you download the project and running on your local m
 6. Speech is going to processed and respective animated outputs are shown accordingly and it also support entered text manually.
 
 
+## MINIMUM SYSTEM REQUIREMENTS:
 
+>- i3 Processor
+>- 4 Gb Ram
+>- Hard disk space 10GB
+>- Software req: OS windows 8 or above 
